@@ -18,7 +18,7 @@ const Certifications = () => {
               credentialId: 'AWS-123456',
             },
             {
-              title: 'Google Cloud Professional Developer',
+              title: ' 	ITIL V3 Certification ',
               issuer: 'Google',
               date: '2022',
               credentialId: 'GCP-789012',
